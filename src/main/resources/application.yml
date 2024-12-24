@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Real-time-collabo
+  profiles:
+    active: dev
+
+server:
+  port: 5000
+
